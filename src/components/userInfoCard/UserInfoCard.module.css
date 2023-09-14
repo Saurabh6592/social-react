@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 0.5rem 1rem;
+  width: 100%;
+  background-color: white;
+}
+
+.username {
+  font-weight: bold;
+}
+
+.address {
+  font-size: small;
+  color: gray;
+}

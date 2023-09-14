@@ -1,0 +1,12 @@
+.container {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  padding-top: 7rem;
+  justify-content: center;
+  text-align: center;
+}
+
+.getStartedButton {
+  margin: 2rem;
+}
